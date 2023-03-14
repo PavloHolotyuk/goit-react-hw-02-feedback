@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PavloHolotyuk/goit-react-hw-02-feedback/static/css/main.7c275681.css",
+    "main.js": "/PavloHolotyuk/goit-react-hw-02-feedback/static/js/main.b513577a.js",
+    "index.html": "/PavloHolotyuk/goit-react-hw-02-feedback/index.html",
+    "main.7c275681.css.map": "/PavloHolotyuk/goit-react-hw-02-feedback/static/css/main.7c275681.css.map",
+    "main.b513577a.js.map": "/PavloHolotyuk/goit-react-hw-02-feedback/static/js/main.b513577a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c275681.css",
+    "static/js/main.b513577a.js"
+  ]
+}
